@@ -9,11 +9,13 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0px 10%;
+    padding: 0px 5%;
     background-color: white;
     position: fixed;
     width: 100%;
     border-bottom: 5px solid #d9261a;
+    z-index: 1000;
+    height: 120px;
 }
 
     header a {
@@ -23,9 +25,13 @@ header {
         font-size: 20px;
     }
 
-img {
-    height: 100%;
-    width: 40%;
+header a:hover {
+    color: #000000;
+}
+
+header img {
+    height: 120px;
+    width: 327px;
     position: relative;
     top: -7px;
 }
