@@ -16,11 +16,14 @@ h1 {
     flex: auto;
     padding-left: 40px;
     font-family: 'MuseoModerno', cursive;
+    font-weight: 800;
+    line-height: 35px;
 }
 
-p{
+p {
     flex: auto;
     padding: 40px;
+    line-height: 25px;
 }
 
 #Homepage{
