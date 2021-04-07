@@ -102,11 +102,8 @@ p {
 .grid-item1{
     grid-column-start: 1;
     grid-column-end: 2;
-    margin-left: auto;
-    margin-right: auto;
     text-align: center;
-    margin: 0;
-    padding: 0;
+    
 }
 .grid-item2{
     grid-column-start: 2;
