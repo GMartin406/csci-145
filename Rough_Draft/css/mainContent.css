@@ -96,7 +96,7 @@ p {
     background-color: lightgrey;
     width: 100%;
     height: 100%;
-    padding-top: 10%;
+    padding-top: 7%;
     padding-left: 15%;
     padding-right: 15%;
     padding-bottom: 10%;
@@ -183,3 +183,6 @@ a{
     color: black;
 }
 
+#Surveillance{
+    background-color: lightgray;
+}
