@@ -27,7 +27,7 @@ h1 {
 
 p {
     flex: auto;
-    padding: 40px;
+    padding: 20px 40px 80px 40px;
     line-height: 25px;
 }
 
