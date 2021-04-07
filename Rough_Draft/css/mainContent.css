@@ -20,6 +20,11 @@ h1 {
     line-height: 35px;
 }
 
+#headerSpacer {
+    height: 120px;
+    width: 100%;
+}
+
 p {
     flex: auto;
     padding: 40px;
@@ -30,7 +35,7 @@ p {
     background-color: lightgrey;
     width: 100%;
     height: 100%;
-    padding-top: 16%;
+    padding-top: 20px;
 }
 
 .greg_img{
