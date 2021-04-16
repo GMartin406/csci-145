@@ -25,6 +25,11 @@ h1 {
     padding-top: 5%;
     width: 100%;
 }
+#footerSpacer {
+    height: 120px;
+    padding-bottom: 5%;
+    width: 100%;
+}
 
 p {
     flex: auto;
