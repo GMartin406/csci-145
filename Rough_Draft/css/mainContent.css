@@ -57,7 +57,7 @@ p {
     margin-left: auto;
     margin-right: auto;
     height: 50%;
-    width: auto;
+    padding-top: 2%;
 }
 
 .home_img{
@@ -187,5 +187,5 @@ a{
 }
 
 #surveillance{
-    background-color: lightgray;
+    background-color: white;
 }
